@@ -1,0 +1,1 @@
+select*from tb_estudantes where notafinal<7.0
